@@ -1,0 +1,417 @@
+2022-01-03 17:38:19,483  INFO[main] Scenario1:25-HomePage opened
+2022-01-03 17:38:29,857  INFO[main] Scenario1:34-Hovered on product page
+2022-01-03 17:38:35,729  INFO[main] Scenario1:41-Clicked on MACH3 
+2022-01-03 17:38:35,954  INFO[main] Scenario1:55-Gillette MACH3 Turbo is present
+2022-01-03 17:38:43,074 DEBUG[main] cache:45-Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-01-03 17:38:43,077 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-01-03 17:38:43,082 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-01-03 17:38:43,085 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-01-03 17:38:43,085 DEBUG[main] cache:45-Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/SuperITCom/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-01-03 17:38:43,932 DEBUG[main] cache:45-Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-01-03 17:38:43,934 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-01-03 17:38:43,935 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-01-03 17:38:43,937 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-01-03 17:38:43,937 DEBUG[main] cache:45-Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/SuperITCom/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-01-03 17:39:02,864  INFO[main] Scenario2:22-HomePage opened
+2022-01-03 17:39:29,475 DEBUG[main] cache:45-Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-01-03 17:39:29,478 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-01-03 17:39:29,479 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-01-03 17:39:29,480 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-01-03 17:39:29,480 DEBUG[main] cache:45-Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/SuperITCom/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-01-03 17:39:29,559 DEBUG[main] cache:45-Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-01-03 17:39:29,563 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-01-03 17:39:29,565 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-01-03 17:39:29,567 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-01-03 17:39:29,567 DEBUG[main] cache:45-Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/SuperITCom/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-01-03 17:39:52,448  INFO[main] Scenario2:23-HomePage opened
+2022-01-03 17:39:58,943  INFO[main] Scenario2:32-Clicked on the search button
+2022-01-03 17:40:09,320  INFO[main] Scenario2:41-Entered the text 
+2022-01-03 17:40:09,321  INFO[main] Scenario2:46-In the Razor search page
+2022-01-03 17:40:11,007 DEBUG[main] cache:45-Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-01-03 17:40:11,009 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-01-03 17:40:11,011 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-01-03 17:40:11,012 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-01-03 17:40:11,013 DEBUG[main] cache:45-Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/SuperITCom/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-01-03 17:40:11,199 DEBUG[main] cache:45-Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-01-03 17:40:11,204 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-01-03 17:40:11,206 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-01-03 17:40:11,207 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-01-03 17:40:11,208 DEBUG[main] cache:45-Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/SuperITCom/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-01-03 17:46:42,458  INFO[main] Scenario1:25-HomePage opened
+2022-01-03 17:46:47,787  INFO[main] Scenario1:34-Hovered on product page
+2022-01-03 17:46:51,197  INFO[main] Scenario1:41-Clicked on MACH3 
+2022-01-03 17:46:51,409  INFO[main] Scenario1:55-Gillette MACH3 Turbo is present
+2022-01-03 17:46:58,357 DEBUG[main] cache:45-Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-01-03 17:46:58,363 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-01-03 17:46:58,368 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-01-03 17:46:58,371 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-01-03 17:46:58,372 DEBUG[main] cache:45-Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/SuperITCom/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-01-03 17:46:59,061 DEBUG[main] cache:45-Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-01-03 17:46:59,063 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-01-03 17:46:59,065 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-01-03 17:46:59,066 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-01-03 17:46:59,066 DEBUG[main] cache:45-Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/SuperITCom/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-01-03 17:47:19,667  INFO[main] Scenario2:22-HomePage opened
+2022-01-03 17:48:58,239  INFO[main] Scenario1:25-HomePage opened
+2022-01-03 17:49:03,610  INFO[main] Scenario1:34-Hovered on product page
+2022-01-03 17:49:06,285  INFO[main] Scenario1:41-Clicked on MACH3 
+2022-01-03 17:49:06,550  INFO[main] Scenario1:55-Gillette MACH3 Turbo is present
+2022-01-03 17:49:08,988 DEBUG[main] cache:45-Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-01-03 17:49:08,990 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-01-03 17:49:08,994 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-01-03 17:49:09,006 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-01-03 17:49:09,007 DEBUG[main] cache:45-Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/SuperITCom/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-01-03 17:49:09,650 DEBUG[main] cache:45-Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-01-03 17:49:09,652 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-01-03 17:49:09,653 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-01-03 17:49:09,654 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-01-03 17:49:09,655 DEBUG[main] cache:45-Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/SuperITCom/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-01-03 17:49:28,197  INFO[main] Scenario2:22-HomePage opened
+2022-01-03 17:49:42,613  INFO[main] Scenario2:32-Clicked on the Styling page in footer
+2022-01-03 17:49:42,616  INFO[main] Scenario2:38-Redirected ti Styling page
+2022-01-03 17:50:03,972 DEBUG[main] cache:45-Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-01-03 17:50:03,974 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-01-03 17:50:03,975 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-01-03 17:50:03,977 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-01-03 17:50:03,977 DEBUG[main] cache:45-Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/SuperITCom/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-01-03 17:50:04,047 DEBUG[main] cache:45-Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-01-03 17:50:04,049 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-01-03 17:50:04,051 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-01-03 17:50:04,053 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-01-03 17:50:04,053 DEBUG[main] cache:45-Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/SuperITCom/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-01-03 17:50:22,590  INFO[main] Scenario2:23-HomePage opened
+2022-01-03 17:50:28,988  INFO[main] Scenario2:32-Clicked on the search button
+2022-01-03 17:50:37,345  INFO[main] Scenario2:41-Entered the text 
+2022-01-03 17:50:37,346  INFO[main] Scenario2:46-In the Razor search page
+2022-01-03 17:50:37,477  INFO[main] Scenario2:62-The Results For "Razor" is found
+2022-01-03 17:50:39,039 DEBUG[main] cache:45-Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-01-03 17:50:39,041 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-01-03 17:50:39,042 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-01-03 17:50:39,044 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-01-03 17:50:39,044 DEBUG[main] cache:45-Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/SuperITCom/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-01-03 17:50:39,160 DEBUG[main] cache:45-Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-01-03 17:50:39,164 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-01-03 17:50:39,165 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-01-03 17:50:39,166 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-01-03 17:50:39,167 DEBUG[main] cache:45-Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/SuperITCom/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-01-03 17:54:11,296  INFO[main] Scenario1:25-HomePage opened
+2022-01-03 17:54:16,627  INFO[main] Scenario1:34-Hovered on product page
+2022-01-03 17:54:20,098  INFO[main] Scenario1:41-Clicked on MACH3 
+2022-01-03 17:54:20,371  INFO[main] Scenario1:55-Gillette MACH3 Turbo is present
+2022-01-03 17:54:28,371 DEBUG[main] cache:45-Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-01-03 17:54:28,376 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-01-03 17:54:28,379 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-01-03 17:54:28,384 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-01-03 17:54:28,385 DEBUG[main] cache:45-Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/SuperITCom/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-01-03 17:54:29,171 DEBUG[main] cache:45-Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-01-03 17:54:29,173 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-01-03 17:54:29,175 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-01-03 17:54:29,176 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-01-03 17:54:29,176 DEBUG[main] cache:45-Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/SuperITCom/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-01-03 17:54:51,295  INFO[main] Scenario2:22-HomePage opened
+2022-01-03 17:55:08,463  INFO[main] Scenario2:32-Clicked on the Styling page in footer
+2022-01-03 17:55:08,465  INFO[main] Scenario2:38-Redirected ti Styling page  verification
+2022-01-03 17:55:33,473 DEBUG[main] cache:45-Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-01-03 17:55:33,475 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-01-03 17:55:33,476 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-01-03 17:55:33,477 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-01-03 17:55:33,478 DEBUG[main] cache:45-Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/SuperITCom/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-01-03 17:55:33,569 DEBUG[main] cache:45-Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-01-03 17:55:33,570 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-01-03 17:55:33,572 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-01-03 17:55:33,573 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-01-03 17:55:33,573 DEBUG[main] cache:45-Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/SuperITCom/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-01-03 17:55:53,286  INFO[main] Scenario2:23-HomePage opened
+2022-01-03 17:55:59,768  INFO[main] Scenario2:32-Clicked on the search button
+2022-01-03 17:56:13,070  INFO[main] Scenario2:41-Entered the text 
+2022-01-03 17:56:13,070  INFO[main] Scenario2:46-In the Razor search page
+2022-01-03 17:56:13,145  INFO[main] Scenario2:62-The Results For "Razor" is found
+2022-01-03 17:56:18,573 DEBUG[main] cache:45-Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-01-03 17:56:18,575 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-01-03 17:56:18,576 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-01-03 17:56:18,577 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-01-03 17:56:18,578 DEBUG[main] cache:45-Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/SuperITCom/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-01-03 17:56:18,696 DEBUG[main] cache:45-Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-01-03 17:56:18,697 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-01-03 17:56:18,699 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-01-03 17:56:18,700 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-01-03 17:56:18,700 DEBUG[main] cache:45-Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/SuperITCom/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-01-03 17:57:57,348  INFO[main] Scenario1:25-HomePage opened
+2022-01-03 17:58:07,945  INFO[main] Scenario1:34-Hovered on product page
+2022-01-03 17:58:12,140  INFO[main] Scenario1:41-Clicked on MACH3 
+2022-01-03 17:58:12,285  INFO[main] Scenario1:55-Gillette MACH3 Turbo is present
+2022-01-03 17:58:14,039 DEBUG[main] cache:45-Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-01-03 17:58:14,044 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-01-03 17:58:14,048 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-01-03 17:58:14,056 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-01-03 17:58:14,057 DEBUG[main] cache:45-Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/SuperITCom/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-01-03 17:58:14,471 DEBUG[main] cache:45-Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-01-03 17:58:14,472 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-01-03 17:58:14,473 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-01-03 17:58:14,473 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-01-03 17:58:14,474 DEBUG[main] cache:45-Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/SuperITCom/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-01-03 17:58:33,912  INFO[main] Scenario2:22-HomePage opened
+2022-01-03 17:58:44,077  INFO[main] Scenario2:32-Clicked on the Styling page in footer
+2022-01-03 17:58:44,080  INFO[main] Scenario2:38-Redirected ti Styling page  verification
+2022-01-03 17:59:08,971 DEBUG[main] cache:45-Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-01-03 17:59:08,973 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-01-03 17:59:08,974 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-01-03 17:59:08,975 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-01-03 17:59:08,975 DEBUG[main] cache:45-Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/SuperITCom/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-01-03 17:59:09,014 DEBUG[main] cache:45-Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-01-03 17:59:09,015 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-01-03 17:59:09,016 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-01-03 17:59:09,017 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-01-03 17:59:09,017 DEBUG[main] cache:45-Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/SuperITCom/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-01-03 18:01:37,663  INFO[main] Scenario1:25-HomePage opened
+2022-01-03 18:01:47,877  INFO[main] Scenario1:34-Hovered on product page
+2022-01-03 18:01:50,240  INFO[main] Scenario1:41-Clicked on MACH3 
+2022-01-03 18:01:50,393  INFO[main] Scenario1:55-Gillette MACH3 Turbo is present
+2022-01-03 18:01:52,499 DEBUG[main] cache:45-Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-01-03 18:01:52,503 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-01-03 18:01:52,507 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-01-03 18:01:52,509 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-01-03 18:01:52,510 DEBUG[main] cache:45-Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/SuperITCom/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-01-03 18:01:53,201 DEBUG[main] cache:45-Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-01-03 18:01:53,203 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-01-03 18:01:53,204 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-01-03 18:01:53,205 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-01-03 18:01:53,205 DEBUG[main] cache:45-Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/SuperITCom/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-01-03 18:02:12,549  INFO[main] Scenario2:22-HomePage opened
+2022-01-03 18:02:24,688  INFO[main] Scenario2:32-Clicked on the Styling page in footer
+2022-01-03 18:02:24,691  INFO[main] Scenario2:38-Redirected ti Styling page  verification
+2022-01-03 18:02:29,890 DEBUG[main] cache:45-Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-01-03 18:02:29,894 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-01-03 18:02:29,898 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-01-03 18:02:29,900 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-01-03 18:02:29,902 DEBUG[main] cache:45-Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/SuperITCom/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-01-03 18:02:29,956 DEBUG[main] cache:45-Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-01-03 18:02:29,957 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-01-03 18:02:29,958 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-01-03 18:02:29,959 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-01-03 18:02:29,959 DEBUG[main] cache:45-Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/SuperITCom/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-01-03 18:02:47,643  INFO[main] Scenario2:23-HomePage opened
+2022-01-03 18:02:53,947  INFO[main] Scenario2:32-Clicked on the search button
+2022-01-03 18:03:01,004  INFO[main] Scenario2:41-Entered the text 
+2022-01-03 18:03:01,005  INFO[main] Scenario2:46-In the Razor search page
+2022-01-03 18:03:01,076  INFO[main] Scenario2:62-The Results For "Razor" is found
+2022-01-03 18:03:02,443 DEBUG[main] cache:45-Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-01-03 18:03:02,446 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-01-03 18:03:02,452 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-01-03 18:03:02,456 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-01-03 18:03:02,457 DEBUG[main] cache:45-Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/SuperITCom/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-01-03 18:03:02,527 DEBUG[main] cache:45-Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-01-03 18:03:02,529 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-01-03 18:03:02,533 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-01-03 18:03:02,534 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-01-03 18:03:02,534 DEBUG[main] cache:45-Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/SuperITCom/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-01-12 14:41:23,531  INFO[main] Scenario1:25-HomePage opened
+2022-01-12 14:41:28,840  INFO[main] Scenario1:34-Hovered on product page
+2022-01-12 14:41:31,240  INFO[main] Scenario1:41-Clicked on MACH3 
+2022-01-12 14:41:31,654  INFO[main] Scenario1:55-Gillette MACH3 Turbo is present
+2022-01-12 14:41:33,532 DEBUG[main] cache:45-Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-01-12 14:41:33,537 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-01-12 14:41:33,541 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-01-12 14:41:33,547 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-01-12 14:41:33,548 DEBUG[main] cache:45-Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/SuperITCom/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-01-12 14:41:34,135 DEBUG[main] cache:45-Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-01-12 14:41:34,137 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-01-12 14:41:34,139 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-01-12 14:41:34,140 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-01-12 14:41:34,140 DEBUG[main] cache:45-Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/SuperITCom/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-01-12 14:41:55,828  INFO[main] Scenario2:22-HomePage opened
+2022-01-12 14:42:11,574  INFO[main] Scenario2:32-Clicked on the Styling page in footer
+2022-01-12 14:42:11,576  INFO[main] Scenario2:38-Redirected ti Styling page  verification
+2022-01-12 14:42:17,010 DEBUG[main] cache:45-Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-01-12 14:42:17,012 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-01-12 14:42:17,013 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-01-12 14:42:17,014 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-01-12 14:42:17,014 DEBUG[main] cache:45-Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/SuperITCom/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-01-12 14:42:17,069 DEBUG[main] cache:45-Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-01-12 14:42:17,071 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-01-12 14:42:17,072 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-01-12 14:42:17,073 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-01-12 14:42:17,073 DEBUG[main] cache:45-Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/SuperITCom/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-01-12 14:42:36,748  INFO[main] Scenario2:23-HomePage opened
+2022-01-12 14:42:43,068  INFO[main] Scenario2:32-Clicked on the search button
+2022-01-12 14:42:51,442  INFO[main] Scenario2:41-Entered the text 
+2022-01-12 14:42:51,443  INFO[main] Scenario2:46-In the Razor search page
+2022-01-12 14:42:51,518  INFO[main] Scenario2:62-The Results For "Razor" is found
+2022-01-12 14:42:52,857 DEBUG[main] cache:45-Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-01-12 14:42:52,859 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-01-12 14:42:52,861 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-01-12 14:42:52,862 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-01-12 14:42:52,862 DEBUG[main] cache:45-Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/SuperITCom/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-01-12 14:42:52,908 DEBUG[main] cache:45-Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-01-12 14:42:52,909 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-01-12 14:42:52,912 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-01-12 14:42:52,913 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-01-12 14:42:52,914 DEBUG[main] cache:45-Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/SuperITCom/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-01-12 14:44:56,078  INFO[main] Scenario1:25-HomePage opened
+2022-01-12 14:45:06,442  INFO[main] Scenario1:34-Hovered on product page
+2022-01-12 14:45:08,720  INFO[main] Scenario1:41-Clicked on MACH3 
+2022-01-12 14:45:08,857  INFO[main] Scenario1:55-Gillette MACH3 Turbo is present
+2022-01-12 14:45:11,644 DEBUG[main] cache:45-Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-01-12 14:45:11,649 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-01-12 14:45:11,652 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-01-12 14:45:11,655 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-01-12 14:45:11,656 DEBUG[main] cache:45-Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/SuperITCom/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-01-12 14:45:12,042 DEBUG[main] cache:45-Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-01-12 14:45:12,043 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-01-12 14:45:12,044 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-01-12 14:45:12,045 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-01-12 14:45:12,045 DEBUG[main] cache:45-Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/SuperITCom/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-01-12 14:45:31,731  INFO[main] Scenario2:22-HomePage opened
+2022-01-12 14:45:41,875  INFO[main] Scenario2:32-Clicked on the Styling page in footer
+2022-01-12 14:45:41,876  INFO[main] Scenario2:38-Redirected ti Styling page  verification
+2022-01-12 14:46:03,126 DEBUG[main] cache:45-Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-01-12 14:46:03,129 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-01-12 14:46:03,131 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-01-12 14:46:03,133 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-01-12 14:46:03,134 DEBUG[main] cache:45-Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/SuperITCom/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-01-12 14:46:03,191 DEBUG[main] cache:45-Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-01-12 14:46:03,193 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-01-12 14:46:03,195 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-01-12 14:46:03,196 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-01-12 14:46:03,197 DEBUG[main] cache:45-Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/SuperITCom/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-01-12 14:46:22,708  INFO[main] Scenario2:23-HomePage opened
+2022-01-12 14:46:29,050  INFO[main] Scenario2:32-Clicked on the search button
+2022-01-12 14:46:36,946  INFO[main] Scenario2:41-Entered the text 
+2022-01-12 14:46:36,948  INFO[main] Scenario2:46-In the Razor search page
+2022-01-12 14:46:37,066  INFO[main] Scenario2:62-The Results For "Razor" is found
+2022-01-12 14:46:38,332 DEBUG[main] cache:45-Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-01-12 14:46:38,335 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-01-12 14:46:38,337 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-01-12 14:46:38,339 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-01-12 14:46:38,340 DEBUG[main] cache:45-Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/SuperITCom/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-01-12 14:46:38,409 DEBUG[main] cache:45-Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-01-12 14:46:38,410 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-01-12 14:46:38,412 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-01-12 14:46:38,413 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-01-12 14:46:38,414 DEBUG[main] cache:45-Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/SuperITCom/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-01-12 14:48:37,803  INFO[main] Scenario1:25-HomePage opened
+2022-01-12 14:48:48,106  INFO[main] Scenario1:34-Hovered on product page
+2022-01-12 14:48:50,319  INFO[main] Scenario1:41-Clicked on MACH3 
+2022-01-12 14:48:50,489  INFO[main] Scenario1:55-Gillette MACH3 Turbo is present
+2022-01-12 14:48:52,182 DEBUG[main] cache:45-Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-01-12 14:48:52,184 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-01-12 14:48:52,187 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-01-12 14:48:52,190 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-01-12 14:48:52,191 DEBUG[main] cache:45-Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/SuperITCom/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-01-12 14:48:52,569 DEBUG[main] cache:45-Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-01-12 14:48:52,570 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-01-12 14:48:52,571 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-01-12 14:48:52,572 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-01-12 14:48:52,572 DEBUG[main] cache:45-Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/SuperITCom/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-01-12 14:49:10,630  INFO[main] Scenario2:22-HomePage opened
+2022-01-12 14:49:23,026  INFO[main] Scenario2:32-Clicked on the Styling page in footer
+2022-01-12 14:49:23,030  INFO[main] Scenario2:38-Redirected ti Styling page  verification
+2022-01-12 14:49:25,441 DEBUG[main] cache:45-Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-01-12 14:49:25,444 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-01-12 14:49:25,446 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-01-12 14:49:25,448 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-01-12 14:49:25,448 DEBUG[main] cache:45-Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/SuperITCom/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-01-12 14:49:25,524 DEBUG[main] cache:45-Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-01-12 14:49:25,526 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-01-12 14:49:25,527 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-01-12 14:49:25,528 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-01-12 14:49:25,529 DEBUG[main] cache:45-Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/SuperITCom/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-01-12 14:49:43,701  INFO[main] Scenario2:23-HomePage opened
+2022-01-12 14:49:49,987  INFO[main] Scenario2:32-Clicked on the search button
+2022-01-12 14:49:57,077  INFO[main] Scenario2:41-Entered the text 
+2022-01-12 14:49:57,079  INFO[main] Scenario2:46-In the Razor search page
+2022-01-12 14:49:57,177  INFO[main] Scenario2:62-The Results For "Razor" is found
+2022-01-12 14:49:58,433 DEBUG[main] cache:45-Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-01-12 14:49:58,436 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-01-12 14:49:58,438 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-01-12 14:49:58,440 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-01-12 14:49:58,440 DEBUG[main] cache:45-Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/SuperITCom/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-01-12 14:49:58,524 DEBUG[main] cache:45-Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-01-12 14:49:58,526 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-01-12 14:49:58,527 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-01-12 14:49:58,529 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-01-12 14:49:58,529 DEBUG[main] cache:45-Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/SuperITCom/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-01-12 14:52:07,994  INFO[main] Scenario1:25-HomePage opened
+2022-01-12 14:52:13,193  INFO[main] Scenario1:34-Hovered on product page
+2022-01-12 14:52:16,026  INFO[main] Scenario1:41-Clicked on MACH3 
+2022-01-12 14:52:16,170  INFO[main] Scenario1:55-Gillette MACH3 Turbo is present
+2022-01-12 14:52:17,976 DEBUG[main] cache:45-Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-01-12 14:52:17,979 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-01-12 14:52:17,982 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-01-12 14:52:17,985 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-01-12 14:52:17,985 DEBUG[main] cache:45-Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/SuperITCom/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-01-12 14:52:18,481 DEBUG[main] cache:45-Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-01-12 14:52:18,482 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-01-12 14:52:18,483 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-01-12 14:52:18,484 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-01-12 14:52:18,484 DEBUG[main] cache:45-Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/SuperITCom/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-01-12 14:52:37,118  INFO[main] Scenario2:22-HomePage opened
+2022-01-12 14:52:47,267  INFO[main] Scenario2:32-Clicked on the Styling page in footer
+2022-01-12 14:52:47,272  INFO[main] Scenario2:38-Redirected ti Styling page  verification
+2022-01-12 14:52:49,353 DEBUG[main] cache:45-Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-01-12 14:52:49,355 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-01-12 14:52:49,357 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-01-12 14:52:49,358 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-01-12 14:52:49,359 DEBUG[main] cache:45-Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/SuperITCom/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-01-12 14:52:49,422 DEBUG[main] cache:45-Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-01-12 14:52:49,423 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-01-12 14:52:49,425 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-01-12 14:52:49,426 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-01-12 14:52:49,426 DEBUG[main] cache:45-Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/SuperITCom/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-01-12 14:53:08,723  INFO[main] Scenario2:23-HomePage opened
+2022-01-12 14:53:15,038  INFO[main] Scenario2:32-Clicked on the search button
+2022-01-12 14:53:22,588  INFO[main] Scenario2:41-Entered the text 
+2022-01-12 14:53:22,590  INFO[main] Scenario2:46-In the Razor search page
+2022-01-12 14:53:22,705  INFO[main] Scenario2:62-The Results For "Razor" is found
+2022-01-12 14:53:23,949 DEBUG[main] cache:45-Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-01-12 14:53:23,953 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-01-12 14:53:23,956 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-01-12 14:53:23,958 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-01-12 14:53:23,959 DEBUG[main] cache:45-Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/SuperITCom/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-01-12 14:53:24,040 DEBUG[main] cache:45-Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-01-12 14:53:24,041 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-01-12 14:53:24,043 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-01-12 14:53:24,044 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-01-12 14:53:24,045 DEBUG[main] cache:45-Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/SuperITCom/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-01-12 14:55:25,480  INFO[main] Scenario1:25-HomePage opened
+2022-01-12 14:55:35,829  INFO[main] Scenario1:34-Hovered on product page
+2022-01-12 14:55:39,886  INFO[main] Scenario1:41-Clicked on MACH3 
+2022-01-12 14:55:40,072  INFO[main] Scenario1:55-Gillette MACH3 Turbo is present
+2022-01-12 14:55:42,826 DEBUG[main] cache:45-Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-01-12 14:55:42,830 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-01-12 14:55:42,835 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-01-12 14:55:42,838 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-01-12 14:55:42,840 DEBUG[main] cache:45-Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/SuperITCom/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-01-12 14:55:43,593 DEBUG[main] cache:45-Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-01-12 14:55:43,594 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-01-12 14:55:43,596 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-01-12 14:55:43,597 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-01-12 14:55:43,597 DEBUG[main] cache:45-Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/SuperITCom/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-01-12 14:56:03,254  INFO[main] Scenario2:22-HomePage opened
+2022-01-12 14:56:13,409  INFO[main] Scenario2:32-Clicked on the Styling page in footer
+2022-01-12 14:56:13,411  INFO[main] Scenario2:38-Redirected ti Styling page  verification
+2022-01-12 14:56:17,114 DEBUG[main] cache:45-Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-01-12 14:56:17,118 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-01-12 14:56:17,161 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-01-12 14:56:17,165 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-01-12 14:56:17,167 DEBUG[main] cache:45-Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/SuperITCom/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-01-12 14:56:17,217 DEBUG[main] cache:45-Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-01-12 14:56:17,219 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-01-12 14:56:17,220 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-01-12 14:56:17,222 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-01-12 14:56:17,222 DEBUG[main] cache:45-Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/SuperITCom/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-01-12 14:56:35,166  INFO[main] Scenario2:23-HomePage opened
+2022-01-12 14:56:41,451  INFO[main] Scenario2:32-Clicked on the search button
+2022-01-12 14:56:48,332  INFO[main] Scenario2:41-Entered the text 
+2022-01-12 14:56:48,332  INFO[main] Scenario2:46-In the Razor search page
+2022-01-12 14:56:48,383  INFO[main] Scenario2:62-The Results For "Razor" is found
+2022-01-12 14:56:50,579 DEBUG[main] cache:45-Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-01-12 14:56:50,581 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-01-12 14:56:50,582 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-01-12 14:56:50,584 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-01-12 14:56:50,585 DEBUG[main] cache:45-Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/SuperITCom/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-01-12 14:56:50,661 DEBUG[main] cache:45-Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-01-12 14:56:50,663 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-01-12 14:56:50,665 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-01-12 14:56:50,666 DEBUG[main] cache:45-TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-01-12 14:56:50,667 DEBUG[main] cache:45-Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/SuperITCom/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
